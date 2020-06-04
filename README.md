@@ -22,9 +22,9 @@ Paragraph folder has a HTML program demonstrating how to display text in differe
 
 Receipt folder has two programs in it Contact.html demonstrating how to create a form & Receipt.html demonstrating how to create a table.
 
-Rectangles folder has a HTML program demonstrating nesting of <div> tag.
+Rectangles folder has a HTML program demonstrating nesting of <div>tag.
 
-Todo List folder has a HTML program demonstrating how to use <ul> tag.
+Todo List folder has a HTML program demonstrating how to use <ul>tag.
 
 Website folder has a HTML program demonstrating creating a basic website with hyperlinks.
 
